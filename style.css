@@ -1,0 +1,20 @@
+body{
+    background-color: #d0f4de;
+    color: #238ec4;
+}
+.main{
+    width: 80vw;
+    height: 60vh;
+    margin: 10vh auto;
+    background-color: #e4c1f9;
+    border-radius: 40px;
+}
+
+span{
+    color: #d0f4de;
+}
+
+p{
+    border: 1px solid #d0f4de;
+    border-radius: 40px;
+}
